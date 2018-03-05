@@ -1,0 +1,25 @@
+# Site settings
+title: Interviews
+header-img: img/home-bg.jpg
+email: 
+copyright_name: 
+description: "Ameliorate Cognizance!"
+baseurl: ""
+url: "http://"
+twitter_username: 
+facebook_username:  
+instagram_username:  
+email_username:   
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+google_tracking_id: UA-100794561-1
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
