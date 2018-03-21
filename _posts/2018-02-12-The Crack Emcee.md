@@ -9,7 +9,7 @@ categories: Elders
 ---
 
 
-I am interviewed **Louis Troy Dixon aka TheCrackEmcee**. He's a stupendous and luminary artist from California. He has worked with many renowned musicians and successful people. 
+The following is an interview with  **Mr. Louis Troy Dixon aka The Crack Emcee**. He's a stupendous and luminary artist from California. He has worked with many renowned musicians and successful people. 
 
 I knew I would start playing Music in 1966. I heard a song called "B A B Y" - "Baby", by - Carla Thomas.
 Her Father was a Major Star when I was a child. This song attracted my ear, you know when people hear a song, people will start singing its like they say something and they come to the chorus "Oooh I Love You", and then there's the Middle Ace, the part in the middle of the song where there's music, the instrumentalists play somehting, it's usually 8 Bars long and that's why it's called the Middle Ace, after hearing the Middle Ace of this song "Baby", it just got my ear and i just thought that i was the most magical thing I'd ever heard and I knew from here that, this was something I was gonna get involved in my entire Life; I just knew it, I was consumed by it and to this day I can hear that song and i will be transported right back to the place where I first heard it. Now there's a movie out now called "Baby Driver" and the song's featured in this movie and I thought that it's the most amazing thing that they pulled into the movie and they treated as it's a very special song so it holds a special place in the movie too. I thought that was very significant for me too when I was watching that movie, I thought whoever put that song in the movie .... he gets it, understands where its coming from.
